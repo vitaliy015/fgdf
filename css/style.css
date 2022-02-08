@@ -1,0 +1,8 @@
+.section-header {
+  background-image: url(../background/Фон\ 1.png);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
